@@ -11,3 +11,5 @@ https://github.com/TianxiangGuo/ECE444-F2022-Lab1.git
 ![](images/Activity4_2.png)
 Activity 5\
 ![](images/Activity5.png)
+Activity 6\
+https://github.com/Wangdyy/ECE444-F2022-EP \
